@@ -1,0 +1,1 @@
+socks://<auth_token>:x@crisp.bringyour.com:7135#URnetwork-US-MtPleasant-ATT-Clean

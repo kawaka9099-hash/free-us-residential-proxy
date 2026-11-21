@@ -1,0 +1,1 @@
+{"outbounds":[{"protocol":"socks","settings":{"servers":[{"address":"crisp.bringyour.com","port":7135,"users":[{"pass":"x","user":"<auth_token>"}]}]},"tag":"urnetwork-us"}]}

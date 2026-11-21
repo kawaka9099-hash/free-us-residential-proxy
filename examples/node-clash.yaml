@@ -1,0 +1,10 @@
+# URnetwork 美国住宅节点（SOCKS5）——示例，占位符，非真实凭据
+# 出口示例：76.239.36.24，Mt. Pleasant, South Carolina，美国，AT&T Enterprises, LLC
+proxies:
+  - name: "URnetwork-US-MtPleasant-ATT"
+    type: socks5
+    server: crisp.bringyour.com
+    port: 7135
+    username: "<auth_token>"
+    password: "x"
+    udp: true
